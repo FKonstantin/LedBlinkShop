@@ -1,0 +1,15 @@
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ledblinkdenis\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ledblinkdenis\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ledblinkdenis\croutine.o: ../Inc/FreeRTOSConfig.h
+ledblinkdenis\croutine.o: ../Inc/main.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+ledblinkdenis\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,17 @@
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+ledblinkdenis\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ledblinkdenis\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ledblinkdenis\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ledblinkdenis\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ledblinkdenis\tasks.o: ../Inc/FreeRTOSConfig.h
+ledblinkdenis\tasks.o: ../Inc/main.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+ledblinkdenis\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h

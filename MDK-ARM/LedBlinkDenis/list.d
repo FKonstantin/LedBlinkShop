@@ -1,0 +1,13 @@
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+ledblinkdenis\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ledblinkdenis\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ledblinkdenis\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ledblinkdenis\list.o: ../Inc/FreeRTOSConfig.h
+ledblinkdenis\list.o: ../Inc/main.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ledblinkdenis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
